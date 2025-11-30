@@ -57,22 +57,8 @@ To analyze key financial indicators and customer trends for a banking institutio
 
 ---
 
-## 📂 Project Structure
-
-📁 Banking-Analysis-Dashboard
-├── 📊 bankinganalysis.pbix
-├── 📄 Banking_Analysis_Documentation.pdf / .docx
-├── 📁 Screenshots
-│ ├── Home.png
-│ ├── LoanAnalysis.png
-│ ├── DepositAnalysis.png
-│ └── Summary.png
-├── 📁 Dataset
-│ └── Banking.csv
-├── 📓 bankingpython.ipynb
-└── README.md
-
 Dashboard screenshots
+
 <img width="1435" height="803" alt="image" src="https://github.com/user-attachments/assets/b90046cb-afb3-44ff-9f65-c109469f4556" />
 
 <img width="1431" height="801" alt="image" src="https://github.com/user-attachments/assets/3751fd18-7561-44cf-a7f9-5fc5783915ec" />
